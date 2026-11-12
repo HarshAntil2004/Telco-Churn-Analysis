@@ -1,0 +1,5 @@
+metric,value
+AUC_logistic,0.847
+AUC_gradient_boosting,0.847
+recall_churn_logistic,0.797
+precision_churn_logistic,0.514

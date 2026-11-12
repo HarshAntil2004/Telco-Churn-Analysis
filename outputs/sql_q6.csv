@@ -1,0 +1,5 @@
+addon_group,customers,churn_rate_pct
+0 add-ons,693,52.24
+1-2 add-ons,1999,40.62
+3+ add-ons,2825,20.6
+No internet,1526,7.4
